@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <html>
   <body>
     <h1>Very profesional page</h1>
-      <img src="https://media.gettyimages.com/vectors/programming-code-application-window-vector-id1124838925?s=2048x2048" alt="royalty-free image of programming" style="border:5px solid black">
+      <img src="https://media.gettyimages.com/vectors/programming-code-application-window-vector-id1124838925?s=2048x2048" alt="royalty-free image of programming">
         <italic>Very professional image</italic>
       </img>
     <br>
