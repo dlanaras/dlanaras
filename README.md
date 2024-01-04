@@ -6,6 +6,6 @@ How do I programmer?
         <a href="https://themetreeos.xyz/home"><img src="https://themetreeos.xyz/assets/pictures/1984.gif" alt="1984" width="125px"/></a>
     <br>
     <br>
-    <a href="https://github.com/dlanaras/dlanaras/tree/main">A very pointles link</a>
+    <a href="https://github.com/dlanaras/">A very pointles link</a>
   </body>
 </html>
